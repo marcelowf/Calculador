@@ -32,3 +32,12 @@ Date manipulation is done using the `ACCEPT WK-DATE FROM DATE YYYYMMDD` statemen
 ### 4. Sub-Program Usage
 
 The code is organized into subroutines (procedures) such as `Identify-User`. This improves code readability and maintenance.
+
+## How to Use
+
+1. **Compile and Run the Program:**
+   To compile:
+   'cobc -x CALCULADOR.cob'
+   
+   To run:
+   './CALCULADOR.cob'
